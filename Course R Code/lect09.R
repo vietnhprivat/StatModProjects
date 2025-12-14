@@ -1,4 +1,4 @@
-setwd("~/undervisning/Kurser/02418/2025Fall/lect09")
+# setwd("~/undervisning/Kurser/02418/2025Fall/lect09")
 rm(list=ls())
 ## Convergence of the average
 N <- 10000
